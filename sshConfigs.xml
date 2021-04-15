@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="13.114.81.184" id="6ddf4fe5-2ff1-401e-b1f9-ebd967c79107" keyPath="$USER_HOME$/.ssh/work/upwish/upwish_manage.pem" port="22" nameFormat="DESCRIPTIVE" username="upwish" />
+    </configs>
+  </component>
+</application>
