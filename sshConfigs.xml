@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="13.114.81.184" id="6ddf4fe5-2ff1-401e-b1f9-ebd967c79107" keyPath="$USER_HOME$/.ssh/work/upwish/upwish_manage.pem" port="22" nameFormat="DESCRIPTIVE" username="upwish" />
+      <sshConfig host="54.95.15.233" id="6d5a9eb4-5e79-4cdd-8579-bd64a7688fa6" keyPath="$USER_HOME$/.ssh/work/sumarch/aws-cms" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
