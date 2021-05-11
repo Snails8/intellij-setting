@@ -21,6 +21,7 @@
       <mapping pattern=".env_aws.example" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="sample" type="TypeScript" />
       <mapping pattern="_app" type="Vue.js" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="ImageFileComponent.vue" approved="true" type="PLAIN_TEXT" />
