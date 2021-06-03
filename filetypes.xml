@@ -10,6 +10,7 @@
       <mapping pattern=".aws_env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".user.ini" type="PLAIN_TEXT" />
+      <mapping pattern="bootstrap.js" type="PLAIN_TEXT" />
       <mapping pattern=".env_aws" type="PLAIN_TEXT" />
       <mapping pattern="card" type="PLAIN_TEXT" />
       <mapping pattern=".aws_env" type="PLAIN_TEXT" />
