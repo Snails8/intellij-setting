@@ -17,7 +17,6 @@
       <mapping pattern="card" type="PLAIN_TEXT" />
       <mapping pattern=".env_google" type="PLAIN_TEXT" />
       <mapping pattern="SiteDisplayTypeStyle" type="PLAIN_TEXT" />
-      <mapping pattern=".rvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.github" type="PLAIN_TEXT" />
       <mapping pattern="bootstrap.js" type="PLAIN_TEXT" />
       <mapping pattern="map" type="PLAIN_TEXT" />
