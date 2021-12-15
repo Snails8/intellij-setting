@@ -25,6 +25,7 @@
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="sample" type="TypeScript" />
       <mapping pattern="_app" type="Vue.js" />
