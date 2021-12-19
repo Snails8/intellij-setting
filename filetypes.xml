@@ -6,22 +6,22 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="SiteDisplayTypeStyle" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="_layouts" type="PLAIN_TEXT" />
-      <mapping pattern="map" type="PLAIN_TEXT" />
       <mapping pattern=".aws_env.example" type="PLAIN_TEXT" />
       <mapping pattern=".user.ini" type="PLAIN_TEXT" />
       <mapping pattern="bootstrap.js" type="PLAIN_TEXT" />
       <mapping pattern=".env_aws" type="PLAIN_TEXT" />
-      <mapping pattern=".env.github" type="PLAIN_TEXT" />
       <mapping pattern="card" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".aws_env" type="PLAIN_TEXT" />
-      <mapping pattern=".env_aws.example" type="PLAIN_TEXT" />
       <mapping pattern=".env_google" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="SiteDisplayTypeStyle" type="PLAIN_TEXT" />
+      <mapping pattern="map" type="PLAIN_TEXT" />
+      <mapping pattern=".env.github" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env_aws.example" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
@@ -30,6 +30,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker file" />
       <removed_mapping pattern="CustomerVoicePublicComponent.vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="DatePickerFormComponent" approved="true" type="PLAIN_TEXT" />
