@@ -3,13 +3,13 @@
     <extensionMap>
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="ああ" type="AUTO_DETECTED" />
-      <mapping pattern="shop_reserve" type="Blade" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".aws_env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env_aws" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env_aws.example" type="PLAIN_TEXT" />
@@ -22,14 +22,11 @@
       <mapping pattern="map" type="PLAIN_TEXT" />
       <mapping pattern="_layouts" type="PLAIN_TEXT" />
       <mapping pattern=".aws_env" type="PLAIN_TEXT" />
-      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="php " type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="php " type="PLAIN_TEXT" />
       <mapping pattern="sample" type="TypeScript" />
-      <mapping pattern="_app" type="Vue.js" />
-      <mapping pattern="ImageComponent" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
@@ -39,6 +36,9 @@
       <removed_mapping pattern="DatePickerFormComponent" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ImageFileComponent.vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="ImageComponent" type="Vue.js" />
+      <mapping pattern="_app" type="Vue.js" />
+      <mapping pattern="shop_reserve" type="Blade" />
     </extensionMap>
   </component>
 </application>
