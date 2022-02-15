@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="ああ" type="AUTO_DETECTED" />
+      <mapping pattern="shop_reserve" type="Blade" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -38,7 +39,6 @@
       <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="ImageComponent" type="Vue.js" />
       <mapping pattern="_app" type="Vue.js" />
-      <mapping pattern="shop_reserve" type="Blade" />
     </extensionMap>
   </component>
 </application>
