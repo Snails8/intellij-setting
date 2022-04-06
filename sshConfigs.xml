@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="13.114.81.184" id="6ddf4fe5-2ff1-401e-b1f9-ebd967c79107" keyPath="$USER_HOME$/.ssh/work/upwish/upwish_manage.pem" port="22" nameFormat="DESCRIPTIVE" username="upwish" />
+      <sshConfig host="54.95.15.233" id="6d5a9eb4-5e79-4cdd-8579-bd64a7688fa6" keyPath="$USER_HOME$/.ssh/work/sumarch/aws-cms" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig host="35.74.181.208" id="c1b31c08-c06e-49c3-ad9d-ce9fab98e322" keyPath="$USER_HOME$/.ssh/work/sumarch/housebokan-prod/housebokan-prod" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig host="ec2-18-183-81-86.ap-northeast-1.compute.amazonaws.com" id="3bc95d4c-d4d1-484c-8148-902f60ec00fb" keyPath="$USER_HOME$/.ssh/work/sumarch/aws-cms" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+    </configs>
+  </component>
+</application>
