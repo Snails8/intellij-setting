@@ -30,17 +30,17 @@
       <mapping pattern="sample" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker file" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern="CustomerVoicePublicComponent.vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="DatePickerFormComponent" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ImageFileComponent.vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="env" type="Env File" />
-      <mapping pattern=".env.*" type="Env File" />
       <mapping pattern="ImageComponent" type="Vue.js" />
       <mapping pattern="_app" type="Vue.js" />
     </extensionMap>
